@@ -25,7 +25,7 @@
   "devDependencies": {
     "@babel/helper-fixtures": "7.0.0-beta.39",
     "charcodes": "0.0.10",
-    "unicode-10.0.0": "^0.7.4"
+    "unicode-10.0.0": "0.7.5"
   },
   "bin": {
     "babylon": "./bin/babylon.js"

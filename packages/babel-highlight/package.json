@@ -13,6 +13,6 @@
     "js-tokens": "^3.0.0"
   },
   "devDependencies": {
-    "strip-ansi": "^4.0.0"
+    "strip-ansi": "4.0.0"
   }
 }
