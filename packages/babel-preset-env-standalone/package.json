@@ -12,7 +12,7 @@
     "@babel/plugin-transform-new-target": "7.0.0-beta.39",
     "@babel/preset-env": "7.0.0-beta.39",
     "@babel/standalone": "7.0.0-beta.39",
-    "mock-require": "^2.0.2"
+    "mock-require": "2.0.2"
   },
   "keywords": [
     "babel",
